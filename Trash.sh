@@ -3,7 +3,6 @@
 #It then moves the file to a folder named Trash in my home directory
 #If the directory does not exist, the script creates it
 
-echo "Ensure you use the 'sudo' call before ./Trash.sh" 
 echo -n "Enter the name of the File you would like to move to trash: "
 read lFile
 
